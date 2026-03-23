@@ -5,12 +5,7 @@
 </head> 
 <body> 
 <h1>Aditya University - Departments & Courses</h1> 
-ADITYA University 
-3 
-WEB Application Development using MERN Stack 
-ADITYA University 4 
- 
-    <!-- Ordered List --> 
+  <!-- Ordered List --> 
     <h2>1. Main Schools in Aditya University (Ordered List)</h2> 
     <ol> 
         <li>School of Engineering</li> 
